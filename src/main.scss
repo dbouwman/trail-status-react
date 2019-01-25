@@ -1,0 +1,130 @@
+body {
+  font-family: sans-serif;
+}
+.content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  h3, h4 {
+    border-bottom: 1px solid #ccc;
+  }
+  h4 {
+    margin: .5em 0 .25em 0;
+  }
+  margin: auto;
+  width: 95%;
+  table {
+    width: 100%;
+  }
+  .loading {
+    text-align: center;
+  }
+}
+
+.navbar {
+  background: #C0C0C0;
+  .toggle, .brand {
+    display: inline-block;
+  }
+  .link {
+    display: block;
+    width: 100%;
+    text-align: center;
+    padding: 1em;
+    text-decoration: none;
+    color: white;
+    &:hover,&:active {
+      background: black;
+    }
+    &.closed {
+      background-color: red;
+    }
+    &.open {
+      background-color: seagreen;
+    }
+  }
+  .brand {
+    width: 10em;
+    font-weight: bold;
+    text-align: center;
+    padding: 1em;
+    text-decoration: none;
+    color: black;
+  }
+  .toggle {
+    padding: 1em;
+    color: black;
+    vertical-align: middle;
+  }
+}
+
+.navbar {
+  display: flex;
+  .left,.right {
+    display: flex;
+    flex: 1;
+  }
+  .link {
+      width: auto;
+  }
+  .right {
+    justify-content: flex-end;
+  }
+  .toggle {
+    display: none;
+  }
+}
+td {
+  padding: 2px;
+  margin:0;
+  border:0;
+}
+tbody tr:nth-child(odd) {
+   background-color: #eee;
+}
+
+
+/* Space out content a bit */
+body {
+  padding-top: 0px;
+  margin: 0;
+  padding-bottom: 20px;
+}
+
+
+/* Custom page footer */
+.footer {
+  padding-top: 19px;
+  color: #777;
+  border-top: 1px solid #e5e5e5;
+}
+
+
+.spinner {
+  width: 40px;
+  height: 40px;
+  background-color: deepskyblue;
+
+  margin: 100px auto;
+  -webkit-animation: sk-rotateplane 1.2s infinite ease-in-out;
+  animation: sk-rotateplane 1.2s infinite ease-in-out;
+}
+
+@-webkit-keyframes sk-rotateplane {
+  0% { -webkit-transform: perspective(120px) }
+  50% { -webkit-transform: perspective(120px) rotateY(180deg) }
+  100% { -webkit-transform: perspective(120px) rotateY(180deg)  rotateX(180deg) }
+}
+
+@keyframes sk-rotateplane {
+  0% {
+    transform: perspective(120px) rotateX(0deg) rotateY(0deg);
+    -webkit-transform: perspective(120px) rotateX(0deg) rotateY(0deg)
+  } 50% {
+    transform: perspective(120px) rotateX(-180.1deg) rotateY(0deg);
+    -webkit-transform: perspective(120px) rotateX(-180.1deg) rotateY(0deg)
+  } 100% {
+    transform: perspective(120px) rotateX(-180deg) rotateY(-179.9deg);
+    -webkit-transform: perspective(120px) rotateX(-180deg) rotateY(-179.9deg);
+  }
+}
