@@ -1,2 +1,2 @@
-import "./main.scss";
-import TrailContainer from "./js/components/container/TrailContainer.jsx";
+import './main.scss';
+import App from './js/components/App.jsx';
