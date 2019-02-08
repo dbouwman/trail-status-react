@@ -2,7 +2,7 @@
 
 /**
  * Simple deep-clone
- * Hosted from https://github.com/Esri/hub.js/blob/8f739daf7406247098789a3639039a1536f93bfd/packages/common/src/util.ts#L14
+ * Hosted from `@esri/hub-common`
  */
 export function cloneObject(obj = {}) {
   let clone = {};
@@ -23,27 +23,44 @@ export function cloneObject(obj = {}) {
   return clone;
 }
 
-
+/**
+ * Get a property from an object, using a deep path. If any segment of the path
+ * does not exist, this simply returns undefined vs throwing an error
+ *
+ * This is a more functional variant of getProp in `@esri/hub-common`
+ */
 export function getProp(path, obj) {
   return path.split(".").reduce(function(prev, curr) {
-    /* istanbul ignore next no need to test undefined scenario */
     return prev ? prev[curr] : undefined;
   }, obj);
 }
 
+/**
+ * Add a property to an object, but only if the passed value is not null
+ * Hoisted from `@esri/hub-common`
+ */
+export function maybeAdd(key, val, target) {
+  // see if we got something...
+  if (val !== null && val !== undefined) {
+    target = cloneObject(target);
+    // attach using the key
+    target[key] = cloneObject(val);
+  }
+  return target;
+}
+
 
 /**
- * This mutates the data as the intent is literally to change it
+ * Extract from one object and attach to a new object using a new name
  */
-export function renameProperties (fieldMap, obj) {
-  Object.keys(fieldMap).forEach((oldPropName) => {
-    if(obj.hasOwnProperty(oldPropName)) {
-      obj[fieldMap[oldPropName]] = obj[oldPropName];
-      delete obj[oldPropName];
-    }
-  });
-  return obj;
+export function extractProperties (fieldMap, obj) {
+  return Object.keys(fieldMap).reduce((acc, oldPropName) => {
+    return maybeAdd(fieldMap[oldPropName], getProp(oldPropName, obj), acc);
+  }, {});
 }
+
+
+
 
 /**
  * Find entry in array by prop val
@@ -68,22 +85,24 @@ function sortBy (propName, arry) {
   });
 }
 
+
 /**
  * Group array entries by a prop name
  */
-function groupByProperty (propName, items) {
+export function groupByProperty (propName, rows) {
   let tracker = [];
-  return items.reduce((acc, entry) => {
+  return rows.reduce((acc, row) => {
+    const groupName = row[propName];
     // do we have this in the tracker?
-    if (tracker.indexOf(entry[propName]) === -1) {
-      // add to tracker...
-      tracker.push(entry[propName]);
-      // create entry in output
-      acc.push({group: entry[propName], entries: [entry]});
+    if (tracker.includes(groupName)) {
+      // it's in the acc, so get it and push entry
+      let group = acc.find((e) =>  (e.group === groupName));
+      group.entries.push(row);
     } else {
-      // it's in the acc, so get it and push the
-      let group = findBy(acc, 'group', entry[propName]);
-      group.entries.push(entry);
+      // add to tracker...
+      tracker.push(groupName);
+      // create entry in output
+      acc.push({group: groupName, entries: [row]});
     }
     return acc;
   }, []);

@@ -1,7 +1,7 @@
 /**
  * Functions for fetching trail data
  */
-import {getProp, cloneObject, renameProperties} from './utils';
+import {getProp, cloneObject, extractProperties, groupByProperty} from './utils';
 
 /**
  * Main function that orchestrates all the work
@@ -30,6 +30,8 @@ export function getData(filters) {
     .then(remapFields)
     .then(reduceSegments)
     .then(groupToAreas)
+    // sortByAreaName
+    // reduceAndSortEntries
     .catch((err) => {
       debugger;
     })
@@ -60,14 +62,8 @@ export function reduceSegments (rows) {
  * {areas: [{name: "area name", trails:[{name, status}, ...]}, ...]}
  */
 export function groupToAreas (rows) {
-  // dummy implementation
   return {
-    areas: [
-      {
-        name: 'Fake Area',
-        trails: rows
-      }
-    ]
+    areas: groupByProperty('area', rows)
   };
 }
 
@@ -90,6 +86,10 @@ export function extractAttributes (features) {
   // create a new unary function that wraps getProp and assigns
   // attributes to the prop name
   const getAttrs = (obj) => getProp('attributes', obj);
+  // we need to do this because getProp on it's own takes multiple properties,
+  // and map passes multiple properties. Also we want to pre-load the function
+  // with 'attributes' and only pass in the row during the map
+
   // now map over the features applying the function
   return features.map(getAttrs);
 }
@@ -100,10 +100,11 @@ export function remapFields (features) {
     FNAME: 'name',
     PROPNAME: 'area',
     NATNAME: 'area',
+    LOCATION: 'area',
     STATUS: 'status'
   }
   // create a unary function to swap the property names
-  const swapProps = (obj) => renameProperties(fieldMap, obj);
+  const swapProps = (obj) => extractProperties(fieldMap, obj);
   return features.map(swapProps);
 }
 
@@ -127,13 +128,14 @@ function getFortCollinsData (state) {
   let serviceUrl = 'https://gisweb.fcgov.com/ArcGIS/rest/services/TrailStatus/MapServer/0/query';
   // let fields = '*';
   let fields = 'FNAME,STATUS,NATNAME,MANAGER,EDIT_BY,EDIT_DATE';
-  return getAGSData(serviceUrl, fields, `(BIKEUSE = 'Yes') AND (STATUS = '${state}')`);
+  // return getAGSData(serviceUrl, fields, `(BIKEUSE = 'Yes') AND (STATUS = '${state}')`);
+  return getAGSData(serviceUrl, fields, `1=1`);
 }
 
 function getLarimerData (state) {
   let serviceUrl = 'https://gisweb.fcgov.com/ArcGIS/rest/services/TrailStatus/MapServer/1/query';
   let fields = 'FNAME,STATUS,LOCATION,MANAGER,EDIT_BY,EDIT_DATE';
-  let where = 'STATUS IS null';
+  let where = '1=1';
   switch (state) {
     case 'Open':
       where = `STATUS = '${state}'`;

@@ -12,7 +12,7 @@ export class App extends Component {
     this.state = {
       loading: true,
       filter: {
-        state: 'open',
+        state: 'closed',
         query: null
       },
       trailData: null
@@ -36,32 +36,32 @@ export class App extends Component {
   showClosedTrails () {
     this.setFilter({state: 'closed'});
   }
-  // componentDidUpdate (prevProps) {
+  // componentDidUpdate ( prevProps ) {
   //   getData(this.state.filter)
   //     .then((data) => {
   //       console.log('Got data...');
-  //       this.setState({trailData: data, loading:false});
+  //       this.setState({trailData: data, loading: false});
   //     })
   //     .catch((err) => {
-  //       this.setState({error: err, loading:false});
+  //       this.setState({error: err, loading: false});
   //     })
   // }
   componentWillMount () {
-    this.setState({loading:true});
+    this.setState({loading: true});
 
     getData(this.state.filter)
       .then((data) => {
         console.log('Got data...');
-        this.setState({trailData: data, loading:false});
+        this.setState({trailData: data, loading: false});
       })
       .catch((err) => {
-        this.setState({error: err, loading:false});
+        this.setState({error: err, loading: false});
       })
 
   }
 
   render() {
-    const {setFilter,showOpenTrails, showClosedTrails} = this;
+    const { setFilter, showOpenTrails, showClosedTrails} = this;
     return (
       <div className="wrap">
         <Navbar onShowOpenTrails={showOpenTrails} onShowClosedTrails={showClosedTrails}/>
@@ -69,7 +69,7 @@ export class App extends Component {
           {this.state.loading ?
             <div className="spinner"></div> :
             this.state.trailData.areas.map(area =>
-              <Area key={area.name} name={area.name} trails={area.trails} />
+              <Area key={area.group} name={area.group} trails={area.entries} />
             )
           }
         </div>

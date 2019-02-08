@@ -5,15 +5,21 @@
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --open --mode development",
-    "build": "webpack --mode production"
+    "build": "webpack --mode production",
+    "test": "jest"
   },
-  "keywords": ["Functional Javascript", "React", "ArcGIS", "Mountain Bike Trails"],
+  "keywords": [
+    "Functional Javascript",
+    "React",
+    "ArcGIS",
+    "Mountain Bike Trails"
+  ],
   "author": "Dave Bouwman <dave@davebouwman.com>",
   "license": "MIT",
   "repository": "https://github.com/dbouwman/trail-status-react",
   "devDependencies": {
     "@babel/core": "^7.2.2",
-    "@babel/preset-env": "^7.3.1",
+    "@babel/preset-env": "^ 7.3.1",
     "@babel/preset-react": "^7.0.0",
     "babel-loader": "^8.0.5",
     "css-loader": "^2.1.0",
