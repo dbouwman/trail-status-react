@@ -12,7 +12,7 @@ export class App extends Component {
     this.state = {
       loading: true,
       filter: {
-        state: 'closed',
+        status: 'all',
         query: null
       },
       trailData: null
@@ -20,51 +20,66 @@ export class App extends Component {
     this.setFilter = this.setFilter.bind(this);
     this.showOpenTrails = this.showOpenTrails.bind(this);
     this.showClosedTrails = this.showClosedTrails.bind(this);
+    this.showAllTrails = this.showAllTrails.bind(this);
   }
 
   setFilter(filter) {
-    console.log(`Called setFilter...`);
-    const newState = cloneObject(this.state);
+    const newState = cloneObject(this.status);
     newState.filter = filter;
     this.setState(newState);
   }
 
-  showOpenTrails () {
-    this.setFilter({state: 'open'});
+  showOpenTrails (e) {
+    e.preventDefault();
+    this.setFilter({status: 'open'});
   }
 
-  showClosedTrails () {
-    this.setFilter({state: 'closed'});
+  showClosedTrails (e) {
+    e.preventDefault();
+    this.setFilter({status: 'closed'});
   }
-  // componentDidUpdate ( prevProps ) {
-  //   getData(this.state.filter)
-  //     .then((data) => {
-  //       console.log('Got data...');
-  //       this.setState({trailData: data, loading: false});
-  //     })
-  //     .catch((err) => {
-  //       this.setState({error: err, loading: false});
-  //     })
-  // }
+
+  showAllTrails (e) {
+    e.preventDefault();
+    this.setFilter({status: 'all'});
+  }
+
+  componentDidUpdate ( prevProps, prevState, snapshot ) {
+    console.info(`componentDidUpdate...`);
+    const curFilter = this.state.filter.status;
+    const lastFilter = prevState.filter.status;
+    console.info(`componentDidUpdate: curFilter ${curFilter} old filter: ${lastFilter}`);
+    if (curFilter !== lastFilter) {
+      this.fetchData(this.state.filter);
+    }
+  }
   componentWillMount () {
-    this.setState({loading: true});
+    this.fetchData(this.state.filter);
+  }
 
-    getData(this.state.filter)
+  fetchData (filter) {
+    this.setState({loading: true});
+    return getData(filter)
       .then((data) => {
-        console.log('Got data...');
         this.setState({trailData: data, loading: false});
       })
       .catch((err) => {
         this.setState({error: err, loading: false});
       })
-
   }
 
   render() {
-    const { setFilter, showOpenTrails, showClosedTrails} = this;
+    const {
+      setFilter,
+      showOpenTrails,
+      showClosedTrails,
+      showAllTrails} = this;
+
     return (
       <div className="wrap">
-        <Navbar onShowOpenTrails={showOpenTrails} onShowClosedTrails={showClosedTrails}/>
+        <Navbar onShowOpenTrails={showOpenTrails}
+                onShowClosedTrails={showClosedTrails}
+                onShowAllTrails={showAllTrails}/>
         <div className="content">
           {this.state.loading ?
             <div className="spinner"></div> :

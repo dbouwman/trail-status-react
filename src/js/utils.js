@@ -36,6 +36,15 @@ export function getProp(path, obj) {
 }
 
 /**
+ * Extract from one object and attach to a new object using a new name
+ */
+export function extractProps (fieldMap, obj) {
+  return Object.keys(fieldMap).reduce((acc, oldPropName) => {
+    return maybeAdd(fieldMap[oldPropName], getProp(oldPropName, obj), acc);
+  }, {});
+}
+
+/**
  * Add a property to an object, but only if the passed value is not null
  * Hoisted from `@esri/hub-common`
  */
@@ -48,19 +57,6 @@ export function maybeAdd(key, val, target) {
   }
   return target;
 }
-
-
-/**
- * Extract from one object and attach to a new object using a new name
- */
-export function extractProperties (fieldMap, obj) {
-  return Object.keys(fieldMap).reduce((acc, oldPropName) => {
-    return maybeAdd(fieldMap[oldPropName], getProp(oldPropName, obj), acc);
-  }, {});
-}
-
-
-
 
 /**
  * Find entry in array by prop val
@@ -77,7 +73,7 @@ export function findBy (arr, prop, val) {
 /**
  * Sort an array by a property name
  */
-function sortBy (propName, arry) {
+export function sortBy (propName, arry) {
   return arry.sort((a,b) => {
     if (a[propName] > b[propName]) return 1;
     if (a[propName] < b[propName]) return -1;
@@ -89,7 +85,7 @@ function sortBy (propName, arry) {
 /**
  * Group array entries by a prop name
  */
-export function groupByProperty (propName, rows) {
+export function groupBy (propName, rows) {
   let tracker = [];
   return rows.reduce((acc, row) => {
     const groupName = row[propName];
@@ -106,4 +102,16 @@ export function groupByProperty (propName, rows) {
     }
     return acc;
   }, []);
+}
+
+export function uniqueBy (prop, entries) {
+  const tracker = [];
+  return entries.reduce((acc, entry) => {
+    // if the tracker does not have the entry yet... we add it...
+    if (!tracker.includes(entry[prop])) {
+      tracker.push(entry[prop]);
+      acc.push(entry);
+    }
+    return acc;
+  }, [])
 }

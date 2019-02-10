@@ -1,70 +1,30 @@
 /**
  * Functions for fetching trail data
  */
-import {getProp, cloneObject, extractProperties, groupByProperty} from './utils';
+import {
+  getProp,
+  cloneObject,
+  extractProps,
+  groupBy,
+  sortBy,
+  uniqueBy
+} from './utils';
 
 /**
  * Main function that orchestrates all the work
  */
-export function getOldData(filters) {
-  return Promise.resolve({
-    areas: [
-      {
-        name: "Pineridge Natural Area",
-        trails: [
-          { name: "RIDGE TRAIL", status: "Open" },
-          { name: "RESERVOIR LOOP TRAIL", status: "Open" },
-          { name: "SOUTH LOOP TRAIL", status: "Open" },
-          { name: "TIMBER TRAIL", status: "Open" },
-          { name: "VALLEY TRAIL", status: "Open" }
-        ]
-      }
-    ]
-  })
-}
-
 export function getData(filters) {
-  return Promise.all([getFortCollinsData(filters.state), getLarimerData(filters.state)])
+  return Promise.all([getFortCollinsData(filters.status), getLarimerData(filters.status)])
     .then(mergeFeatures)
     .then(extractAttributes)
     .then(remapFields)
-    .then(reduceSegments)
+    .then(dedupeSegments)
+    .then(cleanRows)
     .then(groupToAreas)
-    // sortByAreaName
-    // reduceAndSortEntries
+    .then(sortData)
     .catch((err) => {
-      debugger;
+      throw (err);
     })
-}
-
-/**
- * Since this is coming from geospatial data, we may have multiple records
- * per trail. However, we don't want that.
- * This function will remove the duplicate entries so we have one record per trail
- * and we will use the more dominant status
- * i.e. if the trail has 5 segments, and 3 are open, we will declare the trail open
- */
-export function reduceSegments (rows) {
-  return rows.reduce((acc, row) => {
-    if (row.name.indexOf('NONE') === -1) {
-      if(!row.status) {
-        row.status = 'closed';
-      }
-      acc.push(row);
-    }
-    return acc;
-  }, [])
-}
-
-/**
- * This will group records into a nested structure so we can show trails
- * by the Area
- * {areas: [{name: "area name", trails:[{name, status}, ...]}, ...]}
- */
-export function groupToAreas (rows) {
-  return {
-    areas: groupByProperty('area', rows)
-  };
 }
 
 /**
@@ -74,7 +34,7 @@ export function groupToAreas (rows) {
 export function mergeFeatures (queryResponses) {
   return queryResponses.reduce((acc, queryResponse) => {
     return acc.concat(queryResponse.features);
-  }, [])
+  }, []);
 }
 
 /**
@@ -94,57 +54,120 @@ export function extractAttributes (features) {
   return features.map(getAttrs);
 }
 
-
+/**
+ * We want to normalize the data, so we remap the current attributes
+ * returned from the service, into a standard set.
+ */
 export function remapFields (features) {
-  const fieldMap = {
+  // create a map of the current fields to the new fields
+  const extractMap = {
     FNAME: 'name',
     PROPNAME: 'area',
     NATNAME: 'area',
     LOCATION: 'area',
-    STATUS: 'status'
+    STATUS: 'status',
+    MANAGER: 'manager'
   }
-  // create a unary function to swap the property names
-  const swapProps = (obj) => extractProperties(fieldMap, obj);
-  return features.map(swapProps);
+  // Partially Apply the extractMap to extractProps
+  const swapPropsFn = (obj) => extractProps(extractMap, obj);
+  // use the new function in our map call
+  return features.map(swapPropsFn);
+}
+
+/**
+ * Apply any attribute manipulation / standardization
+ */
+export function cleanRows (rows) {
+  return rows.reduce((acc, row) => {
+    // County Data will have status === null if it's not explicitly "Open"
+    if(!row.status) {
+      row.status = 'Closed';
+    }
+    acc.push(row);
+    return acc;
+  }, [])
 }
 
 
+/**
+* Since this is coming from geospatial data, we may have multiple records
+* per trail. However, we don't want that.
+* This function will remove the duplicate entries so we have one record per trail
+*/
+export function dedupeSegments (rows) {
+  return uniqueBy('name', rows);
+}
 
-// Basic Flow
-// getFortCollinsData (status)
-// -> fetch data from AGS layer appying required filters
-// -> normalize rows
+/**
+ * This will group records into a nested structure so we can show trails
+ * by the Area
+ * {areas: [{name: "area name", trails:[{name, status}, ...]}, ...]}
+ */
+export function groupToAreas (rows) {
+  return {
+    areas: groupBy('area', rows)
+  };
+}
 
-// getCountyData (status)
-// -> fetch data from AGS layer, applying required filters
-// -> normalize rows
-//
-// -> Concat Rows
-// -> Aggregate into Areas
-//
-//
+/**
+ * Sort the Areas, and the trails in the areas
+ */
+export function sortData (data) {
+  // sort the areas...
+  data.areas = sortBy('group', data.areas);
+  // and the trails in them...
+  data.areas = data.areas.map((a) => {
+    a.entries = sortBy('name', a.entries);
+    return a;
+  });
+  return data;
+}
 
-function getFortCollinsData (state) {
+/**
+ * Function that knows how to communicate with the City data
+ */
+function getFortCollinsData (status) {
   let serviceUrl = 'https://gisweb.fcgov.com/ArcGIS/rest/services/TrailStatus/MapServer/0/query';
   // let fields = '*';
   let fields = 'FNAME,STATUS,NATNAME,MANAGER,EDIT_BY,EDIT_DATE';
-  // return getAGSData(serviceUrl, fields, `(BIKEUSE = 'Yes') AND (STATUS = '${state}')`);
-  return getAGSData(serviceUrl, fields, `1=1`);
+  fields = '*';
+  // let where = `(BIKEUSE = 'Yes') AND (STATUS = '${status}')`;
+  let where = `FNAME NOT LIKE 'NONE%'`;
+  // Remap status value into service value
+  switch (status) {
+    case 'open':
+      where = `${where} AND STATUS = 'Open'`;
+      break;
+    case 'closed':
+      where = `${where} AND STATUS = 'Closed'`;
+    break;
+  }
+  return getAGSData(serviceUrl, fields, where);
 }
 
-function getLarimerData (state) {
+/**
+ * Function that knows how to communicate with the County data
+ */
+function getLarimerData (status) {
   let serviceUrl = 'https://gisweb.fcgov.com/ArcGIS/rest/services/TrailStatus/MapServer/1/query';
   let fields = 'FNAME,STATUS,LOCATION,MANAGER,EDIT_BY,EDIT_DATE';
-  let where = '1=1';
-  switch (state) {
-    case 'Open':
-      where = `STATUS = '${state}'`;
+  // fields = '*';
+  let where = `FNAME NOT LIKE 'NONE%'`;
+  switch (status) {
+    case 'open':
+      where = `${where} AND STATUS = '${status}'`;
+      break;
+    case 'closed':
+      where = `${where} AND STATUS IS NULL`;
       break;
   }
+  console.info(`Larimer data with ${where} for status: ${status}`);
   return getAGSData(serviceUrl, fields,  where);
 }
 
-
+/**
+ * Generlized function that knows how to execute an ArcGIS Server request
+ */
 function getAGSData(serviceUrl, fields, where) {
   let params = {
     outFields: fields,
@@ -154,11 +177,10 @@ function getAGSData(serviceUrl, fields, where) {
   // urlify this...
   let url = `${serviceUrl}?f=json&${encodeForm(params)}`;
   return fetch(url)
-  .then((response) => {
-    return response.json();
-  })
+  .then((response) => response.json())
   .catch((err) => {
     console.error(`Error fetching ${err}`);
+    throw err;
   })
 }
 
@@ -169,9 +191,7 @@ function encodeForm (form = {}) {
    if (typeof form === 'string') { return form; }
 
    return Object.keys(form).reduce((acc, key) => {
-     if ((form[key])) {
-       acc.push([key, form[key]].map(encodeURIComponent).join('='));
-     }
+     acc.push([key, form[key]].map(encodeURIComponent).join('='));
      return acc;
    }, []).join('&');
 }
