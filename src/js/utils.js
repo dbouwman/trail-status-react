@@ -83,6 +83,21 @@ export function sortBy (propName, arry) {
 
 
 /**
+ * Partially apply args
+ */
+export function partial (fn, arg1) {
+  return (arg2) => {
+    return fn(arg1, arg2);
+  }
+}
+
+export function curry(fn, ...args) {
+    return (..._arg) => {
+        return fn(...args, ..._arg);
+    }
+}
+
+/**
  * Group array entries by a prop name
  */
 export function groupBy (propName, rows) {

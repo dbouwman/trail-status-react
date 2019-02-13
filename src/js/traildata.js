@@ -7,7 +7,9 @@ import {
   extractProps,
   groupBy,
   sortBy,
-  uniqueBy
+  uniqueBy,
+  curry,
+  partial
 } from './utils';
 
 /**
@@ -43,14 +45,29 @@ export function mergeFeatures (queryResponses) {
  * attributes hash
  */
 export function extractAttributes (features) {
-  // create a new unary function that wraps getProp and assigns
-  // attributes to the prop name
-  const getAttrs = (obj) => getProp('attributes', obj);
-  // we need to do this because getProp on it's own takes multiple properties,
-  // and map passes multiple properties. Also we want to pre-load the function
-  // with 'attributes' and only pass in the row during the map
+  // we want to map over the features array and apply a function to each entry
+  // Array.map accepts a function, that will be passws 3 args: entry, index, array
+  // To program defensively we want to use getProp, and we could code that like this:
+  // return features.map((entry) => {
+  //   return getProp('attributes', entry);
+  // })
 
-  // now map over the features applying the function
+  // A more functional approach would be to pass a function to .map
+  // We want to use getProp, but that takes two arguments one of which we want
+  // to pre-supply - 'attributes'. We can do that right inline like this
+  // const getAttrs = (obj) => getProp('attributes', obj);
+  // This is called partial-application, and like many things
+  // we can abstract this into a utility, which we will call partial()
+  // const getAttrs = partial(getProp, 'attributes');
+
+  // But there is also currying. Currying is similar partial application,
+  // but offers more flexibility. At a high-level, currying allows you to
+  // do partial application, od multiple parameters, incrementally.
+  const getAttrs = curry(getProp, 'attributes');
+  // for our example here, it looks the same as using partial. However, if
+  // the function we wanted to use on our map took 7 arguments, we could
+  // send in the first 6 on the curry call, so it's more generic
+
   return features.map(getAttrs);
 }
 
@@ -68,8 +85,8 @@ export function remapFields (features) {
     STATUS: 'status',
     MANAGER: 'manager'
   }
-  // Partially Apply the extractMap to extractProps
-  const swapPropsFn = (obj) => extractProps(extractMap, obj);
+  // curry the extractMap into extractProps to create swapPropsFn
+  const swapPropsFn = curry(extractProps, extractMap);
   // use the new function in our map call
   return features.map(swapPropsFn);
 }
