@@ -1,0 +1,5884 @@
+{
+  "displayFieldName": "NATNAME",
+  "fieldAliases": {
+    "FNAME": "FNAME",
+    "STATUS": "STATUS",
+    "NATNAME": "NATNAME",
+    "MANAGER": "MANAGER",
+    "EDIT_BY": "EDIT_BY",
+    "EDIT_DATE": "EDIT_DATE"
+  },
+  "fields": [],
+  "features": [
+    {
+      "attributes": {
+        "FNAME": "WEST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "ROSS NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969661000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST POUDRE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969656000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST POUDRE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969656000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOSSIL CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969656000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOSSIL CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969656000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOSSIL CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1506552898000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST POUDRE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969656000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST POUDRE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969656000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST POUDRE TRAIL",
+        "STATUS": "Warning",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1542662887000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "VIEWPOINT SPUR",
+        "STATUS": "Open",
+        "NATNAME": "PINERIDGE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1543617210000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOSSIL CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1544562877000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "RENDEZVOUS TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1544562877000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "RENDEZVOUS TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1544562877000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOSSIL CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "CATHY FROMME PRAIRIE NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969655000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOSSIL CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "CATHY FROMME PRAIRIE NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969655000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOSSIL CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "CATHY FROMME PRAIRIE NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969655000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOSSIL CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1544549846000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOOTHILLS TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "RESERVOIR RIDGE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1549297399000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOOTHILLS TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1526930158000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "SANDPIPER TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "FOSSIL CREEK RESERVOIR NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1546014575000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "HERON LOOP TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "FOSSIL CREEK RESERVOIR NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1546014575000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "CATTAIL FLATS TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "FOSSIL CREEK RESERVOIR NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1546014575000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1510599305000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "HICKORY TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969656000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "HICKORY TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969656000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST POUDRE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1528145058000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "RENDEZVOUS TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1544562877000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1486742185000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1486742185000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOOTHILLS TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1526930202000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "PRONGHORN LOOP",
+        "STATUS": "Closed",
+        "NATNAME": "SOAPSTONE PRAIRIE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1551290047000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOSSIL CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1544549916000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST POUDRE TRAIL",
+        "STATUS": "Warning",
+        "NATNAME": "KINGFISHER POINT NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1542662887000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WILLOW TRAIL",
+        "STATUS": "Warning",
+        "NATNAME": "KINGFISHER POINT NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1542662887000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "ROSS NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969661000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "ROSS NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969661000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "ROSS NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969661000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "ROSS NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969661000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "HERON LOOP TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "FOSSIL CREEK RESERVOIR NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1546014575000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "HERON LOOP TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "FOSSIL CREEK RESERVOIR NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1546014575000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "HERON LOOP TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "FOSSIL CREEK RESERVOIR NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1546014575000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOSSIL CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "TWO CREEKS NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969661000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "MALLARD'S NEST NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1492804896000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1492804915000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST POUDRE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969656000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOSSIL CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "FOSSIL CREEK WETLANDS NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1544562877000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1527865044000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "MALLARD'S NEST NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969656000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "MALLARD'S NEST NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1527865035000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "MALLARD'S NEST NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1527865014000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOOTHILLS TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1526930169000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "HIDDEN CLUES TRAIL",
+        "STATUS": "Warning",
+        "NATNAME": "COYOTE RIDGE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1542754101000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOOTHILLS TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "PINERIDGE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1543617210000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOSSIL CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "TWO CREEKS NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1538508267000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST POUDRE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "PROSPECT PONDS NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969658000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST POUDRE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "PROSPECT PONDS NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969658000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST POUDRE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969656000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "BENCH SPUR",
+        "STATUS": "Open",
+        "NATNAME": "PRAIRIE DOG MEADOW NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969658000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "VALLEY LOOP TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "BOBCAT RIDGE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1550431356000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOSSIL CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969656000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOSSIL CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969656000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOSSIL CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "TWO CREEKS NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969661000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOSSIL CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969656000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOSSIL CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "TWO CREEKS NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969661000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST POUDRE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1526923541000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST POUDRE TRAIL",
+        "STATUS": "Closed",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1544549690000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST POUDRE TRAIL",
+        "STATUS": "Closed",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1544549657000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969656000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST SPRING CREEK TRAIL",
+        "STATUS": "Closed",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1537364898000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOSSIL CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "CATHY FROMME PRAIRIE NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969655000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST POUDRE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "RIVERBEND PONDS NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969661000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST POUDRE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "RIVERBEND PONDS NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969661000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST POUDRE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "RIVERBEND PONDS NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969661000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST POUDRE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "RIVERBEND PONDS NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969661000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST POUDRE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969656000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "RENDEZVOUS TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1544562877000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOOTHILLS TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "PINERIDGE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1543617210000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "COYOTE RIDGE TRAIL",
+        "STATUS": "Warning",
+        "NATNAME": "COYOTE RIDGE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1542754101000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "MASON TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Streets",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1544562877000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "CARPENTER ROAD TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "FOSSIL CREEK RESERVOIR NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1546014575000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "HIDDEN CLUES TRAIL",
+        "STATUS": "Warning",
+        "NATNAME": "COYOTE RIDGE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1542754101000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1525116183000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1518725463000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969656000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "ROSS NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969661000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1510599179000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOOTHILLS TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "PINERIDGE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1543617210000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1528340261000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1528340261000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOOTHILLS TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "RESERVOIR RIDGE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1549297399000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOSSIL CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "TWO CREEKS NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969661000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOSSIL CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "TWO CREEKS NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969661000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST POUDRE TRAIL",
+        "STATUS": "Warning",
+        "NATNAME": "KINGFISHER POINT NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1542662887000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST POUDRE TRAIL",
+        "STATUS": "Warning",
+        "NATNAME": "KINGFISHER POINT NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1542662887000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST POUDRE TRAIL",
+        "STATUS": "Closed",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1544549626000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST POUDRE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "KINGFISHER POINT NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969655000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "HIDDEN CLUES TRAIL",
+        "STATUS": "Warning",
+        "NATNAME": "COYOTE RIDGE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1542754101000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "COYOTE RIDGE TRAIL",
+        "STATUS": "Warning",
+        "NATNAME": "COYOTE RIDGE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1542754101000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "ROSS NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1510599312000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "HICKORY TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "SALYER NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969661000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "CANYON TRAIL",
+        "STATUS": "Closed",
+        "NATNAME": "SOAPSTONE PRAIRIE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1551290047000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "MAHOGANY TRAIL",
+        "STATUS": "Closed",
+        "NATNAME": "SOAPSTONE PRAIRIE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1551290047000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "TOWHEE TRAIL",
+        "STATUS": "Closed",
+        "NATNAME": "SOAPSTONE PRAIRIE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1551290047000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "MALLARD'S NEST NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1526328057000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOSSIL CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1544549892000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOSSIL CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1544549870000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOOTHILLS TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "PINERIDGE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1543617210000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "LONG VIEW TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1549044331000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST POUDRE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "KINGFISHER POINT NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969655000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1495493613000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST SPRING CREEK TRAIL",
+        "STATUS": "Closed",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1537364948000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969656000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST POUDRE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1526328326000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "ROSS NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1510599394000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1525281365000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1525281365000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST POUDRE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "RIVERBEND PONDS NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969661000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1527865059000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST POUDRE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1528340213000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOOTHILLS TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "PINERIDGE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1526930214000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "POWER TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969657000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST POUDRE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1510085492000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "ROSS NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969661000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOSSIL CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969657000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "NORTH LOOP TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1522445497000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOOTHILLS TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "RESERVOIR RIDGE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1549297399000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOOTHILLS TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1522445216000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "SOUTH LOOP TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "PINERIDGE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1543617210000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1492804444000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1525116235000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "HICKORY TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969656000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "HICKORY TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969656000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST POUDRE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969656000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "HICKORY TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969656000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST POUDRE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969656000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST POUDRE TRAIL",
+        "STATUS": "Closed",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1544549647000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST POUDRE TRAIL",
+        "STATUS": "Closed",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1544549670000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST POUDRE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969656000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST POUDRE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "KINGFISHER POINT NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969655000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "MAHOGANY LOOP",
+        "STATUS": "Closed",
+        "NATNAME": "SOAPSTONE PRAIRIE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1551290047000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "MAHOGANY LOOP",
+        "STATUS": "Closed",
+        "NATNAME": "SOAPSTONE PRAIRIE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1551290047000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "MAHOGANY LOOP",
+        "STATUS": "Closed",
+        "NATNAME": "SOAPSTONE PRAIRIE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1551290047000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST POUDRE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "ARAPAHO BEND NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1544562877000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOSSIL CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1544549892000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969657000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1525116206000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1492804444000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1528340261000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1485792474000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969657000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOOTHILLS TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1522445272000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOOTHILLS TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1522445100000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST POUDRE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1531941654000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOOTHILLS TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1522445329000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969657000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "GINNY TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "BOBCAT RIDGE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1550431356000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOOTHILLS TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "PINERIDGE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1543617210000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOSSIL CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1544562877000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1501772342000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969656000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "ROSS NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969661000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1528340261000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1528340261000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST POUDRE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1497553588000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOSSIL CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "FOSSIL CREEK WETLANDS NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1544562877000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOSSIL CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "FOSSIL CREEK WETLANDS NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1544562877000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOSSIL CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "FOSSIL CREEK WETLANDS NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1544562877000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOSSIL CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "FOSSIL CREEK WETLANDS NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1544562877000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOSSIL CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "FOSSIL CREEK WETLANDS NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1544562877000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOSSIL CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1544562877000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOSSIL CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1544562877000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOSSIL CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "CATHY FROMME PRAIRIE NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969655000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "MALLARD'S NEST NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1492537940000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "SOUTH LOOP TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "PINERIDGE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1543617210000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1495493525000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "BIG HOLE WASH TRAIL",
+        "STATUS": "Closed",
+        "NATNAME": "SOAPSTONE PRAIRIE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1551290047000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOSSIL CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1544562877000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1525281365000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOSSIL CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969657000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOSSIL CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969657000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOSSIL CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "CATHY FROMME PRAIRIE NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969655000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOSSIL CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "CATHY FROMME PRAIRIE NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969655000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST POUDRE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969657000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1492804444000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1492804444000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969657000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969657000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "HICKORY TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "SALYER NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969661000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST POUDRE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969657000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1525281365000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1525281365000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1501772301000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1492804444000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1492804444000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "POWER TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1544562877000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOSSIL CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1544562877000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOSSIL CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1544562877000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1492804444000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "MALLARD'S NEST NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1492805145000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOSSIL CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1544562877000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOSSIL CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1544562877000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969656000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969656000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOSSIL CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1544562877000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOSSIL CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1544562877000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOSSIL CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1544562877000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "RENDEZVOUS TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1544562877000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "MICHAUD SPUR",
+        "STATUS": "Open",
+        "NATNAME": "RESERVOIR RIDGE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1525470794000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "PRONGHORN LOOP",
+        "STATUS": "Closed",
+        "NATNAME": "SOAPSTONE PRAIRIE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1551290047000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1518725454000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOOTHILLS TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "MAXWELL NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1543262271000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "MASON TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "REDTAIL GROVE NATURAL AREA",
+        "MANAGER": "COF Streets",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1527092075000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "PRONGHORN LOOP",
+        "STATUS": "Closed",
+        "NATNAME": "SOAPSTONE PRAIRIE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1551290047000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "VERMONT TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1544562877000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "VERMONT TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1544562877000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "VERMONT TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1544562877000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST POUDRE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969657000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST POUDRE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969657000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST POUDRE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969657000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "MALLARD'S NEST NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969656000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1525281365000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "VALLEY LOOP TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "BOBCAT RIDGE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1550431356000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST POUDRE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1526328343000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST POUDRE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1526328334000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "GINNY TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1525527043000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST POUDRE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1497553578000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST POUDRE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1522778323000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST POUDRE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1526923541000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOSSIL CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "CATHY FROMME PRAIRIE NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969655000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOSSIL CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "CATHY FROMME PRAIRIE NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969655000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOSSIL CREEK TRAIL",
+        "STATUS": "Closed",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1507213426000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST POUDRE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1510085492000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST POUDRE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969657000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST POUDRE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1510085492000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST POUDRE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1523548640000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST POUDRE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1531941674000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1528340261000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1528340261000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969657000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969657000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1528340261000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1528340261000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "ROSS NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969661000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1525281365000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1525281365000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "NORTH LOOP TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1522445531000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "NORTH LOOP TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1522445649000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "HERON LOOP TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "FOSSIL CREEK RESERVOIR NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1546014575000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "HERON LOOP TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "FOSSIL CREEK RESERVOIR NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1546014575000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "HERON LOOP TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "FOSSIL CREEK RESERVOIR NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1546014575000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "HERON LOOP TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "FOSSIL CREEK RESERVOIR NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1546014575000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "CATTAIL FLATS TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "FOSSIL CREEK RESERVOIR NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1546014575000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "POWER LINE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "BOBCAT RIDGE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1550431356000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "SANDPIPER TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "FOSSIL CREEK RESERVOIR NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1546014575000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOSSIL CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969657000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOSSIL CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "TWO CREEKS NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969661000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOSSIL CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1544562877000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "ROSS NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969661000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1525116222000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969657000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969657000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969657000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST POUDRE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "PROSPECT PONDS NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969658000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST POUDRE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "RIVERBEND PONDS NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969661000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST POUDRE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "RIVERBEND PONDS NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969661000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST POUDRE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "RIVERBEND PONDS NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969661000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1525116215000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST POUDRE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "KINGFISHER POINT NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1497553130000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST POUDRE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1497553083000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1525116229000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST POUDRE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1528340213000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "RENDEZVOUS TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1544562877000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "POWER TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1544562877000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1525281365000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1518725471000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1492804444000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "ROSS NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969661000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "MALLARD'S NEST NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1497381620000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1525281365000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST POUDRE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969657000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST POUDRE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969657000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1485792465000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOSSIL CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "CATHY FROMME PRAIRIE NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969655000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOSSIL CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "CATHY FROMME PRAIRIE NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969655000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOSSIL CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "CATHY FROMME PRAIRIE NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969655000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOSSIL CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969657000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "POWER TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1544562877000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST POUDRE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969658000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST POUDRE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969657000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST POUDRE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "PROSPECT PONDS NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969658000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOSSIL CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "TWO CREEKS NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969661000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOSSIL CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "TWO CREEKS NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969661000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1528340261000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "ROSS NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969661000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1522101309000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST POUDRE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969657000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST POUDRE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "PROSPECT PONDS NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969658000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "POWER TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1544562877000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "POWER TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1544562877000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST POUDRE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "PROSPECT PONDS NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969658000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST POUDRE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "PROSPECT PONDS NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969658000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST POUDRE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1544562877000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST POUDRE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1544562877000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST POUDRE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1544562877000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST POUDRE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1544562877000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST POUDRE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969657000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "OVERLOOK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "GATEWAY NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1537208956000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "BLACK POWDER TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "GATEWAY NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1537208956000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "CHEYENNE RIM TRAIL",
+        "STATUS": "Closed",
+        "NATNAME": "SOAPSTONE PRAIRIE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1551290047000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "OVERLOOK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "GATEWAY NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1537208956000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "VIEWPOINT TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "GATEWAY NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1537208956000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "OVERLOOK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "GATEWAY NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1537208956000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "OVERLOOK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "MAXWELL NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1543262271000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST POUDRE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969657000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST POUDRE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969657000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "MICHAUD SPUR",
+        "STATUS": "Open",
+        "NATNAME": "RESERVOIR RIDGE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1549297399000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOOTHILLS TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "RESERVOIR RIDGE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1549297399000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOOTHILLS TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "RESERVOIR RIDGE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1549297399000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "SANDPIPER TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "FOSSIL CREEK RESERVOIR NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1546014575000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST POUDRE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "PROSPECT PONDS NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969658000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST POUDRE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1539118723000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST POUDRE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1539118723000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "ROSS NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969661000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "MASON TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Streets",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1503945881000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "MASON TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "REDTAIL GROVE NATURAL AREA",
+        "MANAGER": "COF Streets",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969661000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "MASON TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "REDTAIL GROVE NATURAL AREA",
+        "MANAGER": "COF Streets",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969661000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "MASON TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "REDTAIL GROVE NATURAL AREA",
+        "MANAGER": "COF Streets",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969661000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "MASON TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "REDTAIL GROVE NATURAL AREA",
+        "MANAGER": "COF Streets",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969661000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "MASON TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Streets",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969657000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "MASON TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Streets",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969657000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "MASON TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Streets",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969657000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "MASON TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Streets",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1528228018000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "MASON TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Streets",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969657000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "MASON TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Streets",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1544562877000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "MASON TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "REDTAIL GROVE NATURAL AREA",
+        "MANAGER": "COF Streets",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1544562877000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "MASON TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "REDTAIL GROVE NATURAL AREA",
+        "MANAGER": "COF Streets",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1544562877000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "MASON TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "REDTAIL GROVE NATURAL AREA",
+        "MANAGER": "COF Streets",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1544562877000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "MASON TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Streets",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1544562877000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "MASON TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Streets",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1544562877000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "MASON TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Streets",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1544562877000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "MASON TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Streets",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969657000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "MASON TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Streets",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969657000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "MASON TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "REDTAIL GROVE NATURAL AREA",
+        "MANAGER": "COF Streets",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1544562877000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "MASON TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Streets",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1544562877000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "MASON TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Streets",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1544562877000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "MASON TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Streets",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1544562877000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "POUDRE RIVER TRAIL",
+        "STATUS": null,
+        "NATNAME": "NONE",
+        "MANAGER": "TIM",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1544562877000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "MASON TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Streets",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969657000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "MASON TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Streets",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1528227717000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "MASON TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Streets",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969657000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOOTHILLS TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "RESERVOIR RIDGE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1549297399000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOOTHILLS TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "RESERVOIR RIDGE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1549297399000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST POUDRE TRAIL",
+        "STATUS": "Warning",
+        "NATNAME": "KINGFISHER POINT NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1542662887000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST POUDRE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "ARAPAHO BEND NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1544562877000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "JOHN AND EMILY COY HOMESTEAD TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "HOMESTEAD NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969655000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "CHICKADEE-DEE-DEE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "CATTAIL CHORUS NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969655000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "FISCHER NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969655000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "FISCHER NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969655000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "FISCHER NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969655000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "POWER TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1527108297000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "POWER TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1486743462000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOSSIL CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "CATHY FROMME PRAIRIE NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1486743379000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOSSIL CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1486743385000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOSSIL CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "CATHY FROMME PRAIRIE NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969655000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST POUDRE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "ARAPAHO BEND NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1544562877000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOSSIL CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969658000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "FISCHER NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1486742102000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1486742102000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "FISCHER NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1486742102000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "ROSS NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969661000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST POUDRE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "HOMESTEAD NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1528145691000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1486743301000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1490888630000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST POUDRE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1528340213000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1525281365000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1528340261000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1486743301000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1486131576000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1492804444000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "MASON TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "REDTAIL GROVE NATURAL AREA",
+        "MANAGER": "COF Streets",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1544562877000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1486744780000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "PINERIDGE NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1543617210000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOOTHILLS TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "PINERIDGE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1543617210000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "RIDGE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "PINERIDGE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1543617210000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOSSIL CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1544549793000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOOTHILLS TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "PINERIDGE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1543617210000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "SOUTH LOOP TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "PINERIDGE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1543617210000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "RIDGE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "PINERIDGE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1543617210000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1525116247000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "RIDGE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "PINERIDGE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1543617210000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOOTHILLS TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "RESERVOIR RIDGE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1549297399000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "VALLEY LOOP TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "BOBCAT RIDGE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1550431356000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "GINNY TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "BOBCAT RIDGE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1550431356000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOOTHILLS TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "PINERIDGE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1543617210000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "POWER TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1544562877000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "PLEASANT VALLEY TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1544562877000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "MASON TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Streets",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1544562877000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST POUDRE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1539118741000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "CANYON TRAIL",
+        "STATUS": "Closed",
+        "NATNAME": "SOAPSTONE PRAIRIE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1551290047000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOOTHILLS TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "PINERIDGE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1543617210000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "PINERIDGE NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1543617210000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOSSIL CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1544562877000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1501772323000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "POWER LINE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "BOBCAT RIDGE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1550431356000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "POWER LINE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "BOBCAT RIDGE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1550431356000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "VALLEY LOOP TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "BOBCAT RIDGE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1550431356000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "POWER LINE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "BOBCAT RIDGE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1550431356000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1527865014000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOOTHILLS TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "RESERVOIR RIDGE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1549297399000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1492804444000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOOTHILLS TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "MAXWELL NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1543262271000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "MICHAUD SPUR",
+        "STATUS": "Open",
+        "NATNAME": "RESERVOIR RIDGE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1549297399000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOSSIL CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1544549813000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOSSIL CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1544549805000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOSSIL CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1544549892000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "PLOVER TRAIL",
+        "STATUS": "Closed",
+        "NATNAME": "SOAPSTONE PRAIRIE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1551290047000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "RENDEZVOUS TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1544562877000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOOTHILLS TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "PINERIDGE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1543617210000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EDEN VALLEY SPUR",
+        "STATUS": "Open",
+        "NATNAME": "BOBCAT RIDGE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1550431356000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "OVERLOOK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "MAXWELL NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1543262271000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOOTHILLS TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1522445472000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST POUDRE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "BUTTERFLY WOODS NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1510085492000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOOTHILLS TRAIL",
+        "STATUS": "Closed",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1522338915000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST POUDRE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1510085492000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "TIMBER TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "PINERIDGE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1543617210000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOOTHILLS TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "MAXWELL NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1543262271000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "MAHOGANY TRAIL",
+        "STATUS": "Closed",
+        "NATNAME": "SOAPSTONE PRAIRIE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1551290047000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST POUDRE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "ARAPAHO BEND NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1544562877000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "MALLARD'S NEST NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1526328057000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "D.R. TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "BOBCAT RIDGE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1550431356000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "RIDGE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "PINERIDGE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1543617210000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOOTHILLS TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "RESERVOIR RIDGE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1549297399000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOOTHILLS TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "MAXWELL NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1543262271000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "CANYON TRAIL",
+        "STATUS": "Closed",
+        "NATNAME": "SOAPSTONE PRAIRIE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1551290047000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "SAND WASH TRAIL",
+        "STATUS": "Closed",
+        "NATNAME": "SOAPSTONE PRAIRIE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1551290047000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1526328057000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST SPRING CREEK TRAIL",
+        "STATUS": "Closed",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1527102181000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1527865014000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "CARPENTER ROAD TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "FOSSIL CREEK RESERVOIR NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1546014575000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "VALLEY LOOP TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "BOBCAT RIDGE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1550431356000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOOTHILLS TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1543262271000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOOTHILLS TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "PINERIDGE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1543617210000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOOTHILLS TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "PINERIDGE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1543617210000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "CATTAIL FLATS TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "FOSSIL CREEK RESERVOIR NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1546014575000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST POUDRE TRAIL",
+        "STATUS": "Warning",
+        "NATNAME": "KINGFISHER POINT NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1542662887000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST POUDRE TRAIL",
+        "STATUS": "Warning",
+        "NATNAME": "KINGFISHER POINT NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1542662887000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST POUDRE TRAIL",
+        "STATUS": "Warning",
+        "NATNAME": "KINGFISHER POINT NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1542662887000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "HICKORY TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "SALYER NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969661000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST POUDRE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1498071415000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "VALLEY LOOP TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "BOBCAT RIDGE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1550431356000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOOTHILLS TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "MAXWELL NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1543262271000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST POUDRE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969656000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST POUDRE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1526923541000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "NORTH LOOP TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "RESERVOIR RIDGE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1549297399000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOOTHILLS TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "RESERVOIR RIDGE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1549297399000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "PRONGHORN LOOP",
+        "STATUS": "Closed",
+        "NATNAME": "SOAPSTONE PRAIRIE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1551290047000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "CANYON TRAIL",
+        "STATUS": "Closed",
+        "NATNAME": "SOAPSTONE PRAIRIE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1551290047000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "PRONGHORN LOOP",
+        "STATUS": "Closed",
+        "NATNAME": "SOAPSTONE PRAIRIE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1551290047000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "COYOTE RIDGE TRAIL",
+        "STATUS": "Warning",
+        "NATNAME": "COYOTE RIDGE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1542754101000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST SPRING CREEK TRAIL",
+        "STATUS": "Closed",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1537364938000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969656000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1508277456000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969656000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1486131534000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST POUDRE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1510085492000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "HIDDEN CLUES TRAIL",
+        "STATUS": "Warning",
+        "NATNAME": "COYOTE RIDGE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1542754101000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST POUDRE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "ARAPAHO BEND NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1544562877000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOOTHILLS TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "RESERVOIR RIDGE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1549297399000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOOTHILLS TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "RESERVOIR RIDGE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1549297399000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST POUDRE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1522778307000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOOTHILLS TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "RESERVOIR RIDGE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1549297399000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "NEIGHBORHOOD ACCESS TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "PINERIDGE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1543617210000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1543617210000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOOTHILLS TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "PINERIDGE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1543617210000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "RESERVOIR LOOP TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "PINERIDGE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1543617210000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "COYOTE RIDGE TRAIL",
+        "STATUS": "Warning",
+        "NATNAME": "COYOTE RIDGE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1542754101000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST POUDRE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1544562877000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1510598978000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST POUDRE TRAIL",
+        "STATUS": "Closed",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1550180453000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST POUDRE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1509045532000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST POUDRE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1522778316000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOSSIL CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "PINERIDGE NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1543617210000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOOTHILLS TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "RESERVOIR RIDGE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1549297399000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST POUDRE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "UDALL NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1522778292000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "VALLEY LOOP TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "BOBCAT RIDGE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1550431356000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "PRONGHORN LOOP",
+        "STATUS": "Closed",
+        "NATNAME": "SOAPSTONE PRAIRIE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1551290047000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOOTHILLS TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "PINERIDGE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1543617210000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "MASON TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Streets",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1503945919000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "VALLEY TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "PINERIDGE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1543617210000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "GINNY TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1525527061000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "POWER LINE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "BOBCAT RIDGE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1550431356000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "VALLEY LOOP TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "BOBCAT RIDGE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1550431356000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOOTHILLS TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "MAXWELL NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1543262271000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1510599261000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1525116242000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "VALLEY LOOP TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "BOBCAT RIDGE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1550431356000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "VALLEY LOOP TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "BOBCAT RIDGE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1550431356000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1510598290000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1486131562000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "THE COTERIE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1486131582000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1486131549000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "THE COTERIE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1486743061000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST POUDRE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1510270065000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOOTHILLS TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "RESERVOIR RIDGE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1549297399000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "COYOTE RIDGE TRAIL",
+        "STATUS": "Warning",
+        "NATNAME": "COYOTE RIDGE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1542754101000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "COYOTE RIDGE TRAIL",
+        "STATUS": "Warning",
+        "NATNAME": "COYOTE RIDGE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1542754101000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOOTHILLS TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "MAXWELL NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1543262271000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOOTHILLS TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "MAXWELL NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1543262271000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "TOWHEE TRAIL",
+        "STATUS": "Closed",
+        "NATNAME": "SOAPSTONE PRAIRIE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1551290047000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "POWER LINE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "BOBCAT RIDGE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1550431356000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "HIDDEN CLUES TRAIL",
+        "STATUS": "Warning",
+        "NATNAME": "COYOTE RIDGE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1542754101000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1527865014000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "MALLARD'S NEST NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1526328057000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOOTHILLS TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "PINERIDGE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1544563155000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "TOWHEE TRAIL",
+        "STATUS": "Closed",
+        "NATNAME": "SOAPSTONE PRAIRIE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1551290047000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "THE COTERIE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1485792511000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "THE COTERIE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1485792503000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1495493604000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "VALLEY LOOP TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "BOBCAT RIDGE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1550431356000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "VALLEY LOOP TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "BOBCAT RIDGE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1550431356000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "SOUTH LOOP TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "PINERIDGE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1543617210000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "VALLEY TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "PINERIDGE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1543617210000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "RIDGE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "PINERIDGE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1543617210000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOOTHILLS TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "PINERIDGE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1543617210000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "VALLEY LOOP TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "BOBCAT RIDGE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1550431356000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "GINNY TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "BOBCAT RIDGE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1550431356000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "MALLARD'S NEST NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1525542798000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOOTHILLS TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "PINERIDGE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1543617210000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "LONG VIEW TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1535491476000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "LONG VIEW TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1535491476000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "POWER TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1527108308000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOSSIL CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "CATHY FROMME PRAIRIE NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969655000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST POUDRE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "ARAPAHO BEND NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1544563063000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST POUDRE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969657000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "RENDEZVOUS TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1544562877000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOSSIL CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1549042820000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOSSIL CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1549042820000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOSSIL CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1549042820000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOSSIL CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1549042820000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "CHEYENNE RIM TRAIL",
+        "STATUS": "Closed",
+        "NATNAME": "SOAPSTONE PRAIRIE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1551290047000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "LINDENMEIER TRAIL",
+        "STATUS": "Closed",
+        "NATNAME": "SOAPSTONE PRAIRIE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1551290047000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "LONG VIEW TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1535491476000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "CHEYENNE RIM TRAIL",
+        "STATUS": "Closed",
+        "NATNAME": "SOAPSTONE PRAIRIE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1551290047000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "VALLEY LOOP TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "BOBCAT RIDGE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1550431356000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "NORTH LOOP TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "RESERVOIR RIDGE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1549297399000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "LONG VIEW TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1535491476000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOSSIL CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1543013450000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "LONG VIEW TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1549044318000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "MASON TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Streets",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1528228129000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "PLEASANT VALLEY TRAIL",
+        "STATUS": "Closed",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1544562878000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST POUDRE TRAIL",
+        "STATUS": "Warning",
+        "NATNAME": "SPRINGER NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1542662887000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "LONG VIEW TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1535493463000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOOTHILLS TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "PINERIDGE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1543617210000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "VALLEY LOOP TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "BOBCAT RIDGE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1550431356000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOOTHILLS TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "RESERVOIR RIDGE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1549297399000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "COYOTE RIDGE TRAIL",
+        "STATUS": "Warning",
+        "NATNAME": "COYOTE RIDGE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1542754101000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOOTHILLS TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "RESERVOIR RIDGE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1549297399000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "VALLEY LOOP TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "BOBCAT RIDGE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1550431356000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "VALLEY LOOP TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "BOBCAT RIDGE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1550431356000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "OVERLOOK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1526930181000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOOTHILLS TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1522445388000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969657000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "PRONGHORN LOOP",
+        "STATUS": "Closed",
+        "NATNAME": "SOAPSTONE PRAIRIE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1551290047000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "MAHOGANY TRAIL",
+        "STATUS": "Closed",
+        "NATNAME": "SOAPSTONE PRAIRIE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1551290047000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1510599160000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST POUDRE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969656000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST POUDRE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "BUTTERFLY WOODS NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1510085492000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST POUDRE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1526923541000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOSSIL CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "FOSSIL CREEK WETLANDS NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1544562877000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST POUDRE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1544562877000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOSSIL CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1527028853000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "CATTAIL FLATS TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "FOSSIL CREEK RESERVOIR NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1546014575000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "VALLEY LOOP TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "BOBCAT RIDGE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1550431356000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "BLACK POWDER TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "GATEWAY NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1537208956000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1493051842000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOSSIL CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969656000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FOOTHILLS TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "RESERVOIR RIDGE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1549297399000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1486742185000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "CANYON TRAIL",
+        "STATUS": "Closed",
+        "NATNAME": "SOAPSTONE PRAIRIE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1551290047000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "VALLEY TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "PINERIDGE NATURAL AREA",
+        "MANAGER": "COF Natural Areas",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1543617210000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST POUDRE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "HOMESTEAD NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1528145736000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST POUDRE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "HOMESTEAD NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1528145760000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST POUDRE TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "UDALL NATURAL AREA",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1509037855000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "MASON TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Streets",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1503945902000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "RENDEZVOUS TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1544562877000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST SPRING CREEK TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "ics\\ARCGIS_Service",
+        "EDIT_DATE": 1510599249000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "POWER TRAIL",
+        "STATUS": "Open",
+        "NATNAME": "NONE",
+        "MANAGER": "COF Parks",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969657000
+      }
+    }
+  ]
+}

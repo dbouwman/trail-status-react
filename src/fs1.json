@@ -1,0 +1,1034 @@
+{
+  "displayFieldName": "NATNAME",
+  "fieldAliases": {
+    "FNAME": "FNAME",
+    "STATUS": "STATUS",
+    "LOCATION": "LOCATION",
+    "MANAGER": "MANAGER",
+    "EDIT_BY": "EDIT_BY",
+    "EDIT_DATE": "EDIT_DATE"
+  },
+  "fields": [],
+  "features": [
+    {
+      "attributes": {
+        "FNAME": "SUNSET VISTA TRAIL",
+        "STATUS": "Open",
+        "LOCATION": "UNK",
+        "MANAGER": "COL",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1545152540000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "COTTONWOOD LOOP TRAIL",
+        "STATUS": null,
+        "LOCATION": "UNK",
+        "MANAGER": "CSU",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969808000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "GREEN TRAIL",
+        "STATUS": null,
+        "LOCATION": "COLORADO STATE UNIVERSITY",
+        "MANAGER": "CSU",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1543010933000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "LONG VIEW TRAIL",
+        "STATUS": "Open",
+        "LOCATION": "UNK",
+        "MANAGER": "COL",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1545152751000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "SUNSET VISTA TRAIL",
+        "STATUS": "Open",
+        "LOCATION": "UNK",
+        "MANAGER": "COL",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1545152540000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "COTTONWOOD LOOP TRAIL",
+        "STATUS": null,
+        "LOCATION": "UNK",
+        "MANAGER": "CSU",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969809000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "COTTONWOOD LOOP TRAIL",
+        "STATUS": null,
+        "LOCATION": "UNK",
+        "MANAGER": "CSU",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969808000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "POUDRE PASS TRAIL",
+        "STATUS": null,
+        "LOCATION": "UNK",
+        "MANAGER": "CSU",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969809000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FIRE TOWER SPUR ",
+        "STATUS": null,
+        "LOCATION": "UNK",
+        "MANAGER": "CSU",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969809000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "POUDRE PASS TRAIL",
+        "STATUS": null,
+        "LOCATION": "UNK",
+        "MANAGER": "CSU",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969809000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FIRE TOWER SPUR ",
+        "STATUS": null,
+        "LOCATION": "UNK",
+        "MANAGER": "CSU",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969809000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WETLAND WONDER TRAIL",
+        "STATUS": null,
+        "LOCATION": "UNK",
+        "MANAGER": "CSU",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969809000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "FIRE TOWER SPUR ",
+        "STATUS": null,
+        "LOCATION": "UNK",
+        "MANAGER": "CSU",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969809000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "COTTONWOOD LOOP TRAIL",
+        "STATUS": null,
+        "LOCATION": "UNK",
+        "MANAGER": "CSU",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969809000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "COTTONWOOD LOOP TRAIL",
+        "STATUS": null,
+        "LOCATION": "UNK",
+        "MANAGER": "CSU",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969809000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "COTTONWOOD LOOP TRAIL",
+        "STATUS": null,
+        "LOCATION": "UNK",
+        "MANAGER": "CSU",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969809000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "MORGAN TRAIL",
+        "STATUS": null,
+        "LOCATION": "COLORADO STATE UNIVERSITY",
+        "MANAGER": "CSU",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969809000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "GOLD TRAIL",
+        "STATUS": null,
+        "LOCATION": "COLORADO STATE UNIVERSITY",
+        "MANAGER": "CSU",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969809000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "GARDEN TRAIL",
+        "STATUS": null,
+        "LOCATION": "UNK",
+        "MANAGER": "CSU",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1484692226000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "GARDEN TRAIL",
+        "STATUS": null,
+        "LOCATION": "UNK",
+        "MANAGER": "CSU",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1484692226000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "GARDEN TRAIL",
+        "STATUS": null,
+        "LOCATION": "UNK",
+        "MANAGER": "CSU",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1484692226000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "GARDEN TRAIL",
+        "STATUS": null,
+        "LOCATION": "UNK",
+        "MANAGER": "CSU",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1484692226000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "AGGIE TRAIL",
+        "STATUS": null,
+        "LOCATION": "COLORADO STATE UNIVERSITY",
+        "MANAGER": "CSU",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969809000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "CAMPUS LOOP: MOUNTAIN SIDE",
+        "STATUS": null,
+        "LOCATION": "COLORADO STATE UNIVERSITY",
+        "MANAGER": "CSU",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1498064284000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "CAMPUS LOOP: MOUNTAIN SIDE",
+        "STATUS": null,
+        "LOCATION": "COLORADO STATE UNIVERSITY",
+        "MANAGER": "CSU",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969809000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "CAMPUS LOOP: MOUNTAIN SIDE",
+        "STATUS": null,
+        "LOCATION": "COLORADO STATE UNIVERSITY",
+        "MANAGER": "CSU",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969809000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "SANTANKA COVE ACCESS",
+        "STATUS": null,
+        "LOCATION": "LORY STATE PARK",
+        "MANAGER": "CPW",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969809000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WATERFALL",
+        "STATUS": null,
+        "LOCATION": "LORY STATE PARK",
+        "MANAGER": "CPW",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969809000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WESTRIDGE",
+        "STATUS": null,
+        "LOCATION": "LORY STATE PARK",
+        "MANAGER": "CPW",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969809000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "MILL CREEK LINK",
+        "STATUS": null,
+        "LOCATION": "LORY STATE PARK",
+        "MANAGER": "CPW",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969809000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "SOUTH VALLEY LOOP",
+        "STATUS": null,
+        "LOCATION": "LORY STATE PARK",
+        "MANAGER": "CPW",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969809000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "SHORELINE",
+        "STATUS": null,
+        "LOCATION": "LORY STATE PARK",
+        "MANAGER": "CPW",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969809000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST VALLEY",
+        "STATUS": null,
+        "LOCATION": "LORY STATE PARK",
+        "MANAGER": "CPW",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969809000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "ORCHARD COVE ACCESS",
+        "STATUS": null,
+        "LOCATION": "LORY STATE PARK",
+        "MANAGER": "CPW",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969809000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "SOUTH ELTUCK BAY ACCESS",
+        "STATUS": null,
+        "LOCATION": "LORY STATE PARK",
+        "MANAGER": "CPW",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969809000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "NORTH ELTUCK BAY ACCESS",
+        "STATUS": null,
+        "LOCATION": "LORY STATE PARK",
+        "MANAGER": "CPW",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969809000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "OVERLOOK",
+        "STATUS": null,
+        "LOCATION": "LORY STATE PARK",
+        "MANAGER": "CPW",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969809000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "ARTHUR'S ROCK",
+        "STATUS": null,
+        "LOCATION": "LORY STATE PARK",
+        "MANAGER": "CPW",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969809000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "NEIGHBORHOOD ACCESS TRAIL",
+        "STATUS": "Open",
+        "LOCATION": "PINERIDGE NATURAL AREA",
+        "MANAGER": "HOA",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969810000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "NEIGHBORHOOD ACCESS TRAIL",
+        "STATUS": "Open",
+        "LOCATION": "PINERIDGE NATURAL AREA",
+        "MANAGER": "HOA",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969810000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "ROCKWELL TRAIL",
+        "STATUS": null,
+        "LOCATION": "COLORADO STATE UNIVERSITY",
+        "MANAGER": "CSU",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969809000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "ARBOR TRAIL",
+        "STATUS": null,
+        "LOCATION": "COLORADO STATE UNIVERSITY",
+        "MANAGER": "CSU",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969809000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "AGGIE TRAIL",
+        "STATUS": null,
+        "LOCATION": "COLORADO STATE UNIVERSITY",
+        "MANAGER": "CSU",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969809000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "AGGIE TRAIL",
+        "STATUS": null,
+        "LOCATION": "COLORADO STATE UNIVERSITY",
+        "MANAGER": "CSU",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969809000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "AGGIE TRAIL",
+        "STATUS": null,
+        "LOCATION": "COLORADO STATE UNIVERSITY",
+        "MANAGER": "CSU",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969809000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "AGGIE TRAIL",
+        "STATUS": null,
+        "LOCATION": "COLORADO STATE UNIVERSITY",
+        "MANAGER": "CSU",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969809000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "LORY TRAIL",
+        "STATUS": null,
+        "LOCATION": "COLORADO STATE UNIVERSITY",
+        "MANAGER": "CSU",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969809000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "LORY TRAIL",
+        "STATUS": null,
+        "LOCATION": "COLORADO STATE UNIVERSITY",
+        "MANAGER": "CSU",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969809000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "LORY TRAIL",
+        "STATUS": null,
+        "LOCATION": "COLORADO STATE UNIVERSITY",
+        "MANAGER": "CSU",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969809000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "LORY TRAIL",
+        "STATUS": null,
+        "LOCATION": "COLORADO STATE UNIVERSITY",
+        "MANAGER": "CSU",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969809000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "GREEN TRAIL",
+        "STATUS": null,
+        "LOCATION": "COLORADO STATE UNIVERSITY",
+        "MANAGER": "CSU",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1498067004000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "GREEN TRAIL",
+        "STATUS": null,
+        "LOCATION": "COLORADO STATE UNIVERSITY",
+        "MANAGER": "CSU",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1498066999000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "SUNSET VISTA TRAIL",
+        "STATUS": "Open",
+        "LOCATION": "UNK",
+        "MANAGER": "COL",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1545152540000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "HOWARD",
+        "STATUS": null,
+        "LOCATION": "LORY STATE PARK",
+        "MANAGER": "CPW",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969809000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "MILL CREEK LINK",
+        "STATUS": null,
+        "LOCATION": "LORY STATE PARK",
+        "MANAGER": "CPW",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969809000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "ARTHUR'S ROCK",
+        "STATUS": null,
+        "LOCATION": "LORY STATE PARK",
+        "MANAGER": "CPW",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969809000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "MILL CREEK LINK",
+        "STATUS": null,
+        "LOCATION": "LORY STATE PARK",
+        "MANAGER": "CPW",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969809000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "KIMMONS",
+        "STATUS": null,
+        "LOCATION": "LORY STATE PARK",
+        "MANAGER": "CPW",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969809000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WELL GULCH",
+        "STATUS": null,
+        "LOCATION": "LORY STATE PARK",
+        "MANAGER": "CPW",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969810000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST VALLEY",
+        "STATUS": null,
+        "LOCATION": "LORY STATE PARK",
+        "MANAGER": "CPW",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969810000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST VALLEY",
+        "STATUS": null,
+        "LOCATION": "LORY STATE PARK",
+        "MANAGER": "CPW",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969810000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WELL GULCH",
+        "STATUS": null,
+        "LOCATION": "LORY STATE PARK",
+        "MANAGER": "CPW",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969810000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST VALLEY",
+        "STATUS": null,
+        "LOCATION": "LORY STATE PARK",
+        "MANAGER": "CPW",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969810000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "CAMPUS LOOP: MOUNTAIN SIDE",
+        "STATUS": null,
+        "LOCATION": "COLORADO STATE UNIVERSITY",
+        "MANAGER": "CSU",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1498064381000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST VALLEY",
+        "STATUS": null,
+        "LOCATION": "LORY STATE PARK",
+        "MANAGER": "CPW",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969810000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST VALLEY",
+        "STATUS": null,
+        "LOCATION": "LORY STATE PARK",
+        "MANAGER": "CPW",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969810000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WELL GULCH",
+        "STATUS": null,
+        "LOCATION": "LORY STATE PARK",
+        "MANAGER": "CPW",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969810000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "NORTH ELTUCK BAY ACCESS",
+        "STATUS": null,
+        "LOCATION": "LORY STATE PARK",
+        "MANAGER": "CPW",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969810000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "NORTH ELTUCK BAY ACCESS",
+        "STATUS": null,
+        "LOCATION": "LORY STATE PARK",
+        "MANAGER": "CPW",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969810000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST VALLEY",
+        "STATUS": null,
+        "LOCATION": "LORY STATE PARK",
+        "MANAGER": "CPW",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969810000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "SOUTH ELTUCK BAY ACCESS",
+        "STATUS": null,
+        "LOCATION": "LORY STATE PARK",
+        "MANAGER": "CPW",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969810000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "SOUTH ELTUCK BAY ACCESS",
+        "STATUS": null,
+        "LOCATION": "LORY STATE PARK",
+        "MANAGER": "CPW",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969810000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST VALLEY",
+        "STATUS": null,
+        "LOCATION": "LORY STATE PARK",
+        "MANAGER": "CPW",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969810000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "SOUTH VALLEY LOOP",
+        "STATUS": null,
+        "LOCATION": "LORY STATE PARK",
+        "MANAGER": "CPW",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969810000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "CAMPUS LOOP: MOUNTAIN SIDE",
+        "STATUS": null,
+        "LOCATION": "COLORADO STATE UNIVERSITY",
+        "MANAGER": "CSU",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1498065519000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "LONG VIEW TRAIL",
+        "STATUS": "Open",
+        "LOCATION": "UNK",
+        "MANAGER": "COL",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1545152751000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "SOUTH VALLEY LOOP",
+        "STATUS": null,
+        "LOCATION": "LORY STATE PARK",
+        "MANAGER": "CPW",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969810000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "MILL CREEK",
+        "STATUS": null,
+        "LOCATION": "LORY STATE PARK",
+        "MANAGER": "CPW",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1527095298000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "ARTHUR'S ROCK",
+        "STATUS": null,
+        "LOCATION": "LORY STATE PARK",
+        "MANAGER": "CPW",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969810000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "ARTHUR'S ROCK",
+        "STATUS": null,
+        "LOCATION": "LORY STATE PARK",
+        "MANAGER": "CPW",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969809000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "ARTHUR'S ROCK",
+        "STATUS": null,
+        "LOCATION": "LORY STATE PARK",
+        "MANAGER": "CPW",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969809000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "ARTHUR'S ROCK",
+        "STATUS": null,
+        "LOCATION": "LORY STATE PARK",
+        "MANAGER": "CPW",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969809000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "ARTHUR'S ROCK",
+        "STATUS": null,
+        "LOCATION": "LORY STATE PARK",
+        "MANAGER": "CPW",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969809000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WESTRIDGE",
+        "STATUS": null,
+        "LOCATION": "LORY STATE PARK",
+        "MANAGER": "CPW",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969809000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "TIMBER",
+        "STATUS": null,
+        "LOCATION": "LORY STATE PARK",
+        "MANAGER": "CPW",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969809000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WELL GULCH",
+        "STATUS": null,
+        "LOCATION": "LORY STATE PARK",
+        "MANAGER": "CPW",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969809000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WELL GULCH",
+        "STATUS": null,
+        "LOCATION": "LORY STATE PARK",
+        "MANAGER": "CPW",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969809000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "TIMBER",
+        "STATUS": null,
+        "LOCATION": "LORY STATE PARK",
+        "MANAGER": "CPW",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969809000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "TIMBER",
+        "STATUS": null,
+        "LOCATION": "LORY STATE PARK",
+        "MANAGER": "CPW",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969809000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "TIMBER",
+        "STATUS": null,
+        "LOCATION": "LORY STATE PARK",
+        "MANAGER": "CPW",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969809000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "WEST VALLEY",
+        "STATUS": null,
+        "LOCATION": "LORY STATE PARK",
+        "MANAGER": "CPW",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969809000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "SHORELINE",
+        "STATUS": null,
+        "LOCATION": "LORY STATE PARK",
+        "MANAGER": "CPW",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969809000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "SOUTH VALLEY LOOP",
+        "STATUS": null,
+        "LOCATION": "LORY STATE PARK",
+        "MANAGER": "CPW",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969809000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "NOMAD",
+        "STATUS": null,
+        "LOCATION": "LORY STATE PARK",
+        "MANAGER": "CPW",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969809000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "POUDRE RIVER TRAIL",
+        "STATUS": null,
+        "LOCATION": "FRANK SWA",
+        "MANAGER": "CPW",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969810000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "TIMBER LINK",
+        "STATUS": null,
+        "LOCATION": "LORY STATE PARK",
+        "MANAGER": "CPW",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969809000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "EAST VALLEY",
+        "STATUS": null,
+        "LOCATION": "LORY STATE PARK",
+        "MANAGER": "CPW",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969810000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "MILL CREEK LINK",
+        "STATUS": null,
+        "LOCATION": "LORY STATE PARK",
+        "MANAGER": "CPW",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969810000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "LONG VIEW TRAIL",
+        "STATUS": "Open",
+        "LOCATION": "UNK",
+        "MANAGER": "COL",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1545152751000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "LONG VIEW TRAIL",
+        "STATUS": "Open",
+        "LOCATION": "UNK",
+        "MANAGER": "COL",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1545152751000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "ARTHUR'S ROCK - SOUTH VALLEY LINK",
+        "STATUS": null,
+        "LOCATION": "LORY STATE PARK",
+        "MANAGER": "CPW",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969809000
+      }
+    },
+    {
+      "attributes": {
+        "FNAME": "HOWARD",
+        "STATUS": null,
+        "LOCATION": "LORY STATE PARK",
+        "MANAGER": "CPW",
+        "EDIT_BY": "TRNS",
+        "EDIT_DATE": 1482969809000
+      }
+    }
+  ]
+}

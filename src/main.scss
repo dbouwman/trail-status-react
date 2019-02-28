@@ -78,10 +78,43 @@ td {
   padding: 2px;
   margin:0;
   border:0;
+  &.status {
+    color: white;
+    width:20%;
+    text-align: center;
+  }
+  &.closed {
+    background-color: red;
+  }
+  &.open {
+    background-color: seagreen;
+  }
+  &.warning {
+    background-color: seagreen;
+  }
+  &.name {
+    width: 50%;
+  }
+  &.mgr {
+    width: 30%;
+  }
+  @media screen and (max-width: 600px) {
+    &.name {
+      width: 80%;
+    }
+    &.mgr {
+      display:none;
+    }
+  }
+}
+tbody tr {
+  display: flex;
+  justify-content: space-between;
 }
 tbody tr:nth-child(odd) {
    background-color: #eee;
 }
+
 
 
 /* Space out content a bit */

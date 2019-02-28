@@ -24,19 +24,50 @@ export function cloneObject(obj = {}) {
 }
 
 /**
- * Get a property from an object, using a deep path. If any segment of the path
- * does not exist, this simply returns undefined vs throwing an error
+ * Get a property from an object, using a deep path.
+ * If any segment of the path does not exist, this simply
+ * returns the default value vs throwing an error
  *
  * This is a more functional variant of getProp in `@esri/hub-common`
  */
-export function getProp(path, obj) {
+export function getProp(path, obj, def = undefined) {
   return path.split(".").reduce(function(prev, curr) {
-    return prev ? prev[curr] : undefined;
+    return prev ? prev[curr] : def;
   }, obj);
 }
 
+//
+// // Ever written code like this?
+// function doThings (obj) {
+//   let theVal = 'red'
+//   if (obj.roadLayer && obj.roadLayer.color) {
+//     theVal = obj.roadLayer.color
+//   }
+//   // do things...
+// }
+//
+// // getProp can handle the deep-dotting
+// function doThings (myObject) {
+//
+//   const theVal = getProp('roadLayer.color', myObject) || 'red';
+//   // do things...
+//
+// }
+//
+// function doThings (obj) {
+//
+//   const theVal = getProp('roadLayer.color',  obj, 'red');
+//   // do things...
+//
+// }
+
+
 /**
- * Extract from one object and attach to a new object using a new name
+ * Extract prop from one object and attach to
+ * a new object using a new name
+ * FieldMap: {
+ *   "OLDPROP": "NewPropName"
+ * }
  */
 export function extractProps (fieldMap, obj) {
   return Object.keys(fieldMap).reduce((acc, oldPropName) => {
@@ -45,15 +76,27 @@ export function extractProps (fieldMap, obj) {
 }
 
 /**
- * Add a property to an object, but only if the passed value is not null
- * Hoisted from `@esri/hub-common`
+ * Add a property to an object,
+ * only if the passed value is not null
  */
 export function maybeAdd(key, val, target) {
-  // see if we got something...
   if (val !== null && val !== undefined) {
     target = cloneObject(target);
     // attach using the key
     target[key] = cloneObject(val);
+  }
+  return target;
+}
+
+/**
+ * Add an entry to an array
+ * only if the passed value is not null
+ */
+export function maybePush(val, target) {
+  if (val !== null && val !== undefined) {
+    // create a clone because mutation makes us sad...
+    target = cloneObject(target);
+    target.push(cloneObject(val));
   }
   return target;
 }
@@ -83,7 +126,10 @@ export function sortBy (propName, arry) {
 
 
 /**
- * Partially apply args
+ * Simple Partial Application
+ * Only works for fn's with arity-2
+ * Many times it's easier to just use
+ * an anon function inline
  */
 export function partial (fn, arg1) {
   return (arg2) => {
@@ -98,9 +144,39 @@ export function curry(fn, ...args) {
 }
 
 /**
- * Group array entries by a prop name
+ * Simple Auto-Curry
  */
-export function groupBy (propName, rows) {
+export function autocurry ( f, arr=[]) {
+  return function (...args) {
+    return function (a) {
+      (a => a.length === f.length ?
+        f(...a) :
+        autocurry(f, a))([...arr, ...args])
+    }
+  }
+}
+
+/**
+ * Simple Pipe
+ * From Eric Elliot
+ */
+export function pipe (...fns) {
+  // returns a function...
+  return function (data) {
+    // that reduces over the Functions
+    // using the passed in data as the starting
+    // value for reduce
+    return fns.reduce((result, fn) => fn(result), data);
+  }
+}
+
+/**
+ * Group array entries by a prop name
+ * This uses a tracker array. If you are
+ * working with very large arrays, this
+ * will be a little more performant
+ */
+export function groupByTracker (propName, rows) {
   let tracker = [];
   return rows.reduce((acc, row) => {
     const groupName = row[propName];
@@ -119,12 +195,48 @@ export function groupBy (propName, rows) {
   }, []);
 }
 
+/**
+ * Group entries in an array by a property
+ * Input: [{prop: val, prop2: val}]
+ * Returns: [{group: <name>, entries:[...]}]
+ */
+export function groupBy (prop, rows) {
+  debugger;
+  return rows.reduce((acc, row) => {
+    const nameMatches = (e) => e.group === row[prop];
+    let grp = acc.find(nameMatches)
+    if (!grp) {
+      acc.push({group: row[prop], entries: [row]});
+    } else {
+      grp.entries.push(row);
+    }
+    return acc;
+  }, []);
+}
+
+
+/**
+ * Use the value of a property to retur
+ * an array of entries that are unique
+ *
+ * Terser version using maybePush and a ternary
+ * and no nasty ifs
+ */
 export function uniqueBy (prop, entries) {
-  const tracker = [];
   return entries.reduce((acc, entry) => {
-    // if the tracker does not have the entry yet... we add it...
-    if (!tracker.includes(entry[prop])) {
-      tracker.push(entry[prop]);
+    const nameMatches = (e) => e[prop] === entry[prop];
+    return maybePush(acc.find(nameMatches) ? null : entry, acc);
+  }, [])
+}
+
+/**
+ * While this works, it has an if block, and we
+ * hates the nasty ifs
+ */
+export function uniqueByVerbose (prop, entries) {
+  return entries.reduce((acc, entry) => {
+    const nameMatches = (e) => e[prop] === entry[prop];
+    if (!acc.find(nameMatches)) {
       acc.push(entry);
     }
     return acc;

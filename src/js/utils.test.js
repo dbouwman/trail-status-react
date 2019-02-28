@@ -1,4 +1,11 @@
-import {getProp, cloneObject, extractProperties, maybeAdd} from './utils';
+import {
+  getProp,
+  cloneObject,
+  extractProps,
+  maybeAdd,
+  partial
+} from './utils';
+import { curry } from './curry.js'
 
 
 describe('getProp:', () => {
@@ -63,30 +70,39 @@ describe('maybeAdd', () => {
 
 })
 
-describe('extractProperties: ', ()=> {
-
-  let data;
-  beforeEach(()=>{
-    data = {
-      PERSON_NAME: 'Dave Bouwman',
-      PHONE: '303 433 0201',
-      FAV_COLOR: 'blue'
-    };
-  });
+describe('extractProps: ', ()=> {
 
   test('returns new object with new props', () => {
-    const map = {
-      PERSON_NAME: 'name',
-      PHONE: 'phone',
-      FAV_COLOR: 'color',
-      NOT_PROP: 'other'
+    let data = {
+      PERSON_NAME: 'Dave Bouwman',
+      PHONE: '303 433 0201', FAV_COLOR: 'blue'
     };
-    let chk = extractProperties(map, cloneObject(data));
+    const fieldMap = {
+      PERSON_NAME: 'name', PHONE: 'phone',
+      FAV_COLOR: 'color', NOT_PROP: 'other'
+    };
+    let chk = extractProps(fieldMap, data);
     expect(chk).not.toBe(data);
-    expect(chk.name).toEqual(data.PERSON_NAME);
-    expect(chk.phone).toEqual(data.PHONE);
-    expect(chk.color).toEqual(data.FAV_COLOR);
-    expect(chk.other).toBeUndefined();
+    expect(chk).toEqual({
+      name: 'Dave Bouwman',
+      phone: '303 433 0201',
+      color: 'blue'
+    });
   })
-
 })
+
+// describe('')
+
+// describe('curry and partial', () => {
+//   // test('curry accepts 1-N args', () => {
+//   //   const add3 = function(a,b,c) {
+//   //     return a+b+c;
+//   //   };
+//   //   expect(add3(1,2,3)).toEqual(6);
+//   //   let cadd3 = curry(add3);
+//   //   let chk = cadd3(1)(2)(3);
+//   //   expect(chk).toEqual(6);
+//   //   expect(cadd3(1,2)(3)).toEqual(6);
+//   //   expect(cadd3(1,2,3)).toEqual(6);
+//   // })
+// })
