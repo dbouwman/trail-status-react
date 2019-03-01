@@ -104,13 +104,13 @@ export function maybePush(val, target) {
 /**
  * Find entry in array by prop val
  */
-export function findBy (arr, prop, val) {
+export function filterBy (prop, val, arr) {
   return arr.reduce((acc, entry) => {
     if (getProp(prop, entry) === val) {
-      acc = entry;
+      acc.push(entry);
     }
     return acc;
-  }, null);
+  }, []);
 }
 
 /**
@@ -132,29 +132,21 @@ export function sortBy (propName, arry) {
  * Many times it's easier to just use
  * an anon function inline
  */
-export function partial (fn, arg1) {
+export function partial2 (fn, arg1) {
   return (arg2) => {
     return fn(arg1, arg2);
   }
 }
 
-export function curry(fn, ...args) {
+/**
+ * Better partial that allows you to apply
+ * n-arguments initially, and m additional
+ * at execution time
+ */
+export function partial(fn, ...args) {
     return (..._arg) => {
         return fn(...args, ..._arg);
     }
-}
-
-/**
- * Simple Auto-Curry
- */
-export function autocurry ( f, arr=[]) {
-  return function (...args) {
-    return function (a) {
-      (a => a.length === f.length ?
-        f(...a) :
-        autocurry(f, a))([...arr, ...args])
-    }
-  }
 }
 
 /**

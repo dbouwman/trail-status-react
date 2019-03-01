@@ -1,11 +1,16 @@
 import {
-  getProp,
   cloneObject,
   extractProps,
+  filterBy,
+  getProp,
   maybeAdd,
-  partial
+  maybePush,
+  partial,
+  partial2,
+  pipe,
+  uniqueBy
 } from './utils';
-import { curry } from './curry.js'
+
 
 
 describe('getProp:', () => {
@@ -70,6 +75,46 @@ describe('maybeAdd', () => {
 
 })
 
+describe('maybePush', () => {
+  test('adds non-null to array', () => {
+    const t = [];
+    let chk = maybePush('blue', t);
+    expect(chk.length).toEqual(1);
+    expect(chk[0]).toEqual('blue');
+  });
+
+  test('adds clone of object to array', () => {
+    const t = [{name: "Dave"}];
+    const v = {name: "Mike"};
+    let chk = maybePush(v , t);
+    expect(chk.length).toEqual(2);
+    expect(chk[1]).toEqual(v);
+    expect(chk[1]).not.toBe(v);
+  });
+
+  test('does not add null to array', () => {
+    const t = [{name: "Dave"}];
+    let chk = maybePush(null, t);
+    expect(chk.length).toEqual(1);
+  })
+})
+
+describe('filterBy', () => {
+  test('finds entries by prop value', () => {
+    const d = [{color: 'red'}, {color:'blue'}];
+    const chk = filterBy('color','red', d);
+    expect(chk).toBeDefined();
+    expect(chk.length).toEqual(1);
+    expect(chk[0].color).toEqual('red');
+  });
+  test('returns empty array if not found', () => {
+    const d = [{color: 'red'}, {color:'blue'}];
+    const chk = filterBy('color','orange', d);
+    expect(chk).toBeDefined();
+    expect(chk.length).toEqual(0);
+  });
+})
+
 describe('extractProps: ', ()=> {
 
   test('returns new object with new props', () => {
@@ -89,20 +134,52 @@ describe('extractProps: ', ()=> {
       color: 'blue'
     });
   })
+});
+
+describe('partial2', () => {
+  test('returns a function with first arg applied', () => {
+    const add = (a,b) => a + b;
+    const add5 = partial2(add, 5);
+    expect(typeof add5).toEqual('function');
+    const chk = add5(10);
+    expect(chk).toEqual(15);
+  })
 })
 
-// describe('')
+describe('partial', () => {
+  test('returns a function with args applied', () => {
+    const add = (a,b,c) => a + b + c;
+    const add15 = partial(add, 5, 10);
+    expect(typeof add15).toEqual('function');
+    const chk = add15(10);
+    expect(chk).toEqual(25);
+  })
+  test('allows multiple args at execution time', () => {
+    const add = (a,b,c,d) => a + b + c + d;
+    const add15 = partial(add, 5, 10);
+    expect(typeof add15).toEqual('function');
+    const chk = add15(10, 23);
+    expect(chk).toEqual(48);
+  })
+});
 
-// describe('curry and partial', () => {
-//   // test('curry accepts 1-N args', () => {
-//   //   const add3 = function(a,b,c) {
-//   //     return a+b+c;
-//   //   };
-//   //   expect(add3(1,2,3)).toEqual(6);
-//   //   let cadd3 = curry(add3);
-//   //   let chk = cadd3(1)(2)(3);
-//   //   expect(chk).toEqual(6);
-//   //   expect(cadd3(1,2)(3)).toEqual(6);
-//   //   expect(cadd3(1,2,3)).toEqual(6);
-//   // })
-// })
+describe('pipe', () => {
+  test('calls functions in order', () => {
+    const addfive = (n) => 5 + n;
+    const double = (n) => n * 2;
+    const p = pipe(addfive, double);
+    const chk = p(4);
+    expect(chk).toEqual(18);
+  })
+});
+
+describe('uniqueBy', () => {
+  test('returns unique entries by a property', () => {
+    const data =  [
+      {color: 'red', size: 1}, {color:'blue', size: 4},
+      {color: 'red', size: 10}, {color:'orange', size: 40}
+    ];
+    const chk = uniqueBy('color', data);
+    expect(chk.length).toEqual(3);
+  })
+})

@@ -1,4 +1,8 @@
 
+/**
+ * Code used in slides for the
+ * Functional 101 section 
+ */
 
 // array of values
 let d = [1,2,3,4];
