@@ -12,6 +12,7 @@ This is a demo application showing some functional programming concepts, within 
 
 #### Get'in Deep
 - [Mostly Adequate Guide](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/)
+- [Awesome FP Js](https://github.com/stoeffel/awesome-fp-js) Curated list of resources
 
 ### Books
 - [Functional-Light Javascript](https://leanpub.com/fljs)
