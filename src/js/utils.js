@@ -65,7 +65,7 @@ export function getProp(path, obj, def = undefined) {
 /**
  * Extract prop from one object and attach to
  * a new object using a new name
- * FieldMap: {
+ * fieldMap: {
  *   "OLDPROP": "NewPropName"
  * }
  */
@@ -117,7 +117,8 @@ export function findBy (arr, prop, val) {
  * Sort an array by a property name
  */
 export function sortBy (propName, arry) {
-  return arry.sort((a,b) => {
+  const clone = [...arry];
+  return clone.sort((a,b) => {
     if (a[propName] > b[propName]) return 1;
     if (a[propName] < b[propName]) return -1;
     return 0;
@@ -201,7 +202,6 @@ export function groupByTracker (propName, rows) {
  * Returns: [{group: <name>, entries:[...]}]
  */
 export function groupBy (prop, rows) {
-  debugger;
   return rows.reduce((acc, row) => {
     const nameMatches = (e) => e.group === row[prop];
     let grp = acc.find(nameMatches)
@@ -216,7 +216,7 @@ export function groupBy (prop, rows) {
 
 
 /**
- * Use the value of a property to retur
+ * Use the value of a property to return
  * an array of entries that are unique
  *
  * Terser version using maybePush and a ternary

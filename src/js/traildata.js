@@ -14,7 +14,49 @@ import {
 } from './utils';
 
 /**
- * Main function that orchestrates all the work
+ * Naive option - just write a lot of code
+ * inside the .then block
+ */
+export function getDataNaive(filters) {
+  return Promise.all(
+    [
+      getFortCollinsData(filters.status),
+      getLarimerData(filters.status)
+    ])
+    .then((results) => {
+      // do lots of work here...
+      // downside is that this is
+      // difficult to test, and has
+      // zero reuse
+    })
+}
+
+
+/**
+ * Better... refactor so we call two
+ * other functions...
+ */
+export function getDataNaive2(filters) {
+  // extract out the initial fetch work...
+  return fetchData(filters)
+    .then((results) => {
+      // call function to do all the work...
+      return processData(results);
+    })
+}
+
+/**
+ * Abstract out the two calls to do the fetching
+ */
+export function fetchData(filters) {
+  return Promise.all([
+    getFortCollinsData(filters.status),
+    getLarimerData(filters.status)
+  ]);
+}
+
+/**
+ * Orchestrate using the promise chain...
  */
 export function getDataChain(filters) {
   return fetchData(filters)
@@ -31,37 +73,8 @@ export function getDataChain(filters) {
     })
 }
 
-export function getDataNaive(filters) {
-  return Promise.all(
-    [
-      getFortCollinsData(filters.status),
-      getLarimerData(filters.status)
-    ])
-    .then((results) => {
-      // do lots of work here...
-      // downside is that this is
-      // difficult to test, and has
-      // zero reuse
-    })
-}
-
-export function getDataNaive2(filters) {
-  // extract out the initial fetch work...
-  return fetchData(filters)
-    .then((results) => {
-      // call function to do all the work...
-      return processData(results);
-    })
-}
-export function fetchData(filters) {
-  return Promise.all([
-    getFortCollinsData(filters.status),
-    getLarimerData(filters.status)
-  ]);
-}
-
 /**
- * Same output, using pipe
+ * Or better, "compose" using pipe
  */
 export function getData(filters) {
   const processData = pipe(
@@ -73,6 +86,7 @@ export function getData(filters) {
     groupToAreas,
     sortData
   );
+
   return fetchData(filters)
     .then(processData);
 }
@@ -94,7 +108,6 @@ export function mergeFeatures (queryResponses) {
  * attributes hash
  */
 export function extractAttributes (features) {
-  debugger;
   // we want to map over the features array and apply a function to each entry
   // Array.map accepts a function, that will be passws 3 args: entry, index, array
 
@@ -140,8 +153,6 @@ export function extractAttributes (features) {
   // // on our map took 7 arguments, we could
   // // send in the first 6 on the curry call
   // return features.map(getAttrs);
-
-
 }
 
 /**
@@ -183,7 +194,6 @@ export function cleanRows (rows) {
 * entries so we have one record per trail
 */
 export function dedupeSegments (rows) {
-  debugger;
   return uniqueBy('name', rows);
 }
 
@@ -202,7 +212,6 @@ export function groupToAreas (rows) {
  * Sort the Areas, and the trails in the areas
  */
 export function sortData (data) {
-  debugger;
   // sort the areas...
   data.areas = sortBy('group', data.areas);
   // and the trails in them...
@@ -218,10 +227,8 @@ export function sortData (data) {
  */
 function getFortCollinsData (status) {
   let serviceUrl = 'https://gisweb.fcgov.com/ArcGIS/rest/services/TrailStatus/MapServer/0/query';
-  // let fields = '*';
   let fields = 'FNAME,STATUS,NATNAME,MANAGER,EDIT_BY,EDIT_DATE';
   // fields = '*';
-  // let where = `(BIKEUSE = 'Yes') AND (STATUS = '${status}')`;
   let where = `FNAME NOT LIKE 'NONE%'`;
   // Remap status value into service value
   switch (status) {
@@ -251,7 +258,6 @@ function getLarimerData (status) {
       where = `${where} AND STATUS IS NULL`;
       break;
   }
-  console.info(`Larimer data with ${where} for status: ${status}`);
   return getAGSData(serviceUrl, fields,  where);
 }
 
@@ -264,7 +270,7 @@ function getAGSData(serviceUrl, fields, where) {
     returnGeometry: false,
     where: where
   };
-  // urlify this...
+
   let url = `${serviceUrl}?f=json&${encodeForm(params)}`;
   return fetch(url)
     .then((response) => response.json())
